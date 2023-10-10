@@ -1,4 +1,4 @@
-1.BCA
-2.MCA
+1.BCA(computer application)
+2.MCA(computer application)
 3.EEE
 4.ECE

@@ -3,3 +3,5 @@
 3.som
 4.siva
 5.bala
+6.kala
+7.mala
